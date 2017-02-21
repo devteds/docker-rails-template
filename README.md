@@ -12,7 +12,7 @@ Template for creating Rails application using docker. Create a new directory on 
 
 ```
 # Go to your projects or work directory and,
-git clone https://github.com/ec-codecasts/docker-rails-template.git myapp
+git clone https://github.com/devteds/docker-rails-template.git myapp
 cd myapp
 rm -rf .git
 docker-compose run app rails new . --force --database=mysql --skip-bundle
