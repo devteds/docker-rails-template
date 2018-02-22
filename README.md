@@ -1,6 +1,6 @@
-# README
+# Ruby On Rails with Docker - Template
 
-Template for creating Rails application using docker. Create a new directory on your machine, copy the files from this repo and follow the instructions below.
+Use this code and follow the instructions below to create and run a new rails application using Docker & Docker Compose.
 
 ## Tested on
 
